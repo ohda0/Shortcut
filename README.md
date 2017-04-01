@@ -6,6 +6,7 @@
 - ctrl + w : 탭 닫기
 - ctrl + shitft + t : 최근에 닫은 탭 다시 열기
 - ctrl + l : 주소창 입력
+- ctrl + click : 새로운 탭에서 링크 열기
 
 ## Window Shortcut
 
